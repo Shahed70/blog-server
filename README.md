@@ -17,10 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC0uT-8UEmS5LtDj4_d51zkQ">
-    <img src="/Youtube.jpg" alt="Logo" width="80" height="80">
-  </a>
-
+    <img src="/https://images.unsplash.com/photo-1448227922836-6d05b3f8b663?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Logo" width="80" height="80">
   <h3 align="center">BLOG MERN Stack Course</h3>
 
   <p align="center">
