@@ -18,12 +18,11 @@
 <br />
 <p align="center">
     <img src="https://images.unsplash.com/photo-1448227922836-6d05b3f8b663?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Logo" width="80" height="80">
-  <h3 align="center">BLOG MERN Stack Course</h3>
+  <h3 align="center">BLOG MERN Stack Blog</h3>
 
   <p align="center">
-    MERN Stack course tutorials from scratch
+    MERN Stack blog
     <br />
-    <a href="https://www.youtube.com/playlist?list=PLZdXBpi-l7C7cle-FNXQuYnYl2mdPe_o1"><strong>here is Youtube playlist »</strong></a>
     <br />
     <br />
   </p>
